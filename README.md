@@ -1,4 +1,4 @@
-![Github readme banner]([https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif))
+![githubbanner-ezgif com-crop](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/27d26854-1db1-4c61-881d-f718526f3b07)
 
 <!--
 **AJAYKUMAR-B-S/AJAYKUMAR-B-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
