@@ -1,5 +1,7 @@
 
-![Banner](https://github.com/AJAYKUMAR-B-S/AJAYKUMAR-B-S/blob/main/banner.gif)   
+ 
+<img src="https://github.com/AJAYKUMAR-B-S/AJAYKUMAR-B-S/blob/main/banner.gif" alt="Banner" width="900" height="400">
+
 
 ## 👋About Me:
 
