@@ -1,4 +1,4 @@
-<img src="https://github.com/AJAYKUMAR-B-S/AJAYKUMAR-B-S/blob/main/banner.gif" alt="Banner" width="700" height="350">
+<img src="https://github.com/AJAYKUMAR-B-S/AJAYKUMAR-B-S/blob/main/banner.gif" alt="Banner" width="775" height="400">
 
 ## 👋About Me:
 
