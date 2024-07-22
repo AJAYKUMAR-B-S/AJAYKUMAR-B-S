@@ -1,19 +1,11 @@
 
-
-
 ![githubbanner-ezgif com-crop](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 ## 👋About Me:
-<!--
-**AJAYKUMAR-B-S/AJAYKUMAR-B-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭 Currently, I am working on improving my frontend skills.<br>
+-🌱 I am currently learning React.<br>
+-👯 I’m looking to collaborate on open source projects, especially those involving React.<br>
+-💬 Ask me about React, JavaScript, CSS and HTML.<br>
+-📫 You can reach me at ajaykumarbirursathish@gmail.com.<br>
+-😄 Pronouns: He/Him.<br>
+-⚡ Fun Fact: I love to read the documentation.<br>
