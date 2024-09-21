@@ -8,7 +8,7 @@
 -💬 Ask me about **React**, **JavaScript**, **CSS** and **HTML**.<br>
 -📫 You can reach me at **ajaykumarbirursathish@gmail.com**.<br>
 -😄 Pronouns: **He/Him**.<br>
--⚡ Fun Fact: I love to read the documentation.<br>
+-⚡ Fun Fact: I love to read documentations.<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=ad&icon=2&color=0)](https://visitcount.itsvg.in)
